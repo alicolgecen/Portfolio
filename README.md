@@ -1,3 +1,4 @@
 # Portfolio
-Where I showcase my work.
-Visit: https://ali.colgecen.co
+A space where I showcase some of the noteworthy work I've done.
+
+Visit: https://alicolgecen.github.io/Portfolio/
